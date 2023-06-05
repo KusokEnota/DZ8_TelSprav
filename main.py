@@ -1,3 +1,4 @@
+from os.path import exists
 from csv_create import creating
 from writing_data import writing_scv, writing_txt
 from delete import delete_contact
